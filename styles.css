@@ -1,0 +1,12 @@
+.grid-square-container {
+  margin: 0 auto;
+  border: 2px solid green;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.grid-square {
+  background-color: red;
+  margin: 0;
+}
+
